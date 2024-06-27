@@ -1,7 +1,7 @@
 {
-  "name": "express-custom-starter",
+  "name": "task-thing-server",
   "version": "1.0.0",
-  "description": "Custom Express Server Starter",
+  "description": "task thing: organize your chaos (or pretend to)",
   "main": "src/index.ts",
   "type": "module",
   "scripts": {
